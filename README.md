@@ -46,7 +46,7 @@ Steps to Run the Project
 
 Clone the Repository
 
-git clone https://github.com/your-username/online-auction-platform.git
+git clone https://github.com/ShivaniThudimilla/online-auction-platform.git
 cd online-auction-platform
 
 Install Dependencies
@@ -66,24 +66,6 @@ npm install
 npm run dev
 
 Runs the backend at http://localhost:5000.
-
-Project Structure
-
-/online-auction-platform
-│── /frontend   # React Frontend
-│   ├── /src
-│   │   ├── /components
-│   │   ├── /pages
-│   │   ├── /utils
-│   │   ├── App.tsx
-│   │   ├── index.tsx
-│── /backend    # Express Backend
-│   ├── /models
-│   ├── /routes
-│   ├── /controllers
-│   ├── server.ts
-│── package.json
-│── README.md
 
 API Endpoints
 
