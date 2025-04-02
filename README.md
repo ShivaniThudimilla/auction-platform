@@ -16,8 +16,6 @@ Features
 
 📧 Email Notifications for bid updates (Future Feature)
 
-📊 Dashboard Analytics (Upcoming)
-
 Tech Stack
 
 Frontend:
